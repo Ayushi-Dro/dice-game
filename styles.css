@@ -1,0 +1,38 @@
+.dicee {
+  text-align: center;
+  color: green;
+  margin-top: 60px;
+  font-size: 4rem;
+  font-style: italic;
+}
+.row-1 {
+  font-style: italic;
+  display: flex;
+  align-items: center;
+}
+.dice {
+  height: 300px;
+  width: 300px;
+}
+
+.player1,
+.player2 {
+  background-color: #fffcdc;
+  padding: 3%;
+}
+.player1 {
+  margin-left: 250px;
+  margin-right: 100px;
+}
+.player {
+  margin-top: 70px;
+}
+
+.buttons {
+  text-align: center;
+}
+.btn {
+  margin-top: 50px;
+  margin-right: 10px;
+  margin-bottom: 60px;
+}
